@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2823">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2819" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2821" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2765"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff7f2a;stop-opacity:1;"
+         offset="0"
+         id="stop2763" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1301"
+       x="-0.039360007"
+       width="1.07872"
+       y="-0.061499984"
+       height="1.123">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5497019"
+         id="feGaussianBlur1303" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2823"
+       id="radialGradient2827"
+       cx="83.532715"
+       cy="228.96429"
+       fx="83.532715"
+       fy="228.96429"
+       r="50.966286"
+       gradientTransform="matrix(1,0,0,0.66627146,0,76.411919)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="475.973"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#55ffff;fill-opacity:1;stroke:url(#radialGradient2827);stroke-width:82.06500244;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1301)"
+       id="rect815"
+       width="94.494003"
+       height="60.476189"
+       x="36.285713"
+       y="198.7262"
+       transform="matrix(2.642062,0,0,5.1620408,-114.8653,-1028.932)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.5733757px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f62d00;fill-opacity:1;stroke:none;stroke-width:0.83933443"
+       x="43.606773"
+       y="159.26938"
+       id="text983"
+       transform="scale(0.88527008,1.1295988)"><tspan
+         sodipodi:role="line"
+         id="tspan981"
+         x="43.606773"
+         y="159.26938"
+         style="font-size:80.57610321px;fill:#f62d00;fill-opacity:1;stroke-width:0.83933443">MAJ</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot985"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion987"><rect
+           id="rect989"
+           width="105.71429"
+           height="65.714287"
+           x="237.14285"
+           y="888.23395" /></flowRegion><flowPara
+         id="flowPara991" /></flowRoot>  </g>
+</svg>
